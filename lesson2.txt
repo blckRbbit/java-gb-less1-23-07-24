@@ -1,0 +1,14 @@
+.git
+.gitignore
+.idea
+2.iml
+JavaApi семинар 2.pptx
+json.txt
+log.0.0.txt
+log.config
+log.txt
+out
+readme.txt
+src
+task5.txt
+test.txt

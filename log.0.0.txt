@@ -1,0 +1,18 @@
+июл. 26, 2024 10:00:21 PM less2.Lesson2 readDir
+INFO: Error reading directory: E:\code\work\gb\JavaAPI\1 and 2 groups\2
+июл. 26, 2024 10:00:21 PM less2.Lesson2 readDir
+INFO: Error reading directory: E:\code\work\gb\JavaAPI\1 and 2 groups\2
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: .git
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: .idea
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: JavaApi семинар 2.pptx
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: log.0.0.txt
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: out
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: readme.txt
+июл. 26, 2024 10:00:21 PM less2.Lesson2 writeToFile
+INFO: Error writing directory: src
