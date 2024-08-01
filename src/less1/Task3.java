@@ -1,6 +1,7 @@
 package less1;
 
 import java.io.*;
+import java.util.Objects;
 
 public class Task3 {
 
@@ -56,4 +57,15 @@ public class Task3 {
         }
         return line;
     }
+
+
+    public static boolean isNumber(String str) {
+        try {
+            Double.parseDouble(str); //"123.5" -> "lfkewjhiw
+            return true;
+        } catch (NumberFormatException e) {
+            return false;
+        }
+    }
+
 }
