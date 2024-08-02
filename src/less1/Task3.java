@@ -32,7 +32,7 @@ public class Task3 {
 //    }
 
     private static void writeToFile(String path, String content) {
-//        "E:\\code\\work\\gb\\JavaAPI\\example\\gb-java-example"
+    //        "E:\\code\\work\\gb\\JavaAPI\\example\\gb-java-example"
         try(FileWriter fw = new FileWriter(path)) {
             fw.write(content);
             fw.flush();

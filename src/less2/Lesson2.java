@@ -2,6 +2,8 @@ package less2;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -91,6 +93,7 @@ public class Lesson2 {
         }
 
         return result;
+
     }
 
     public static void writeToFile(String pathIn, String pathOut) {
