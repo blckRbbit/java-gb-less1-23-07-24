@@ -19,6 +19,7 @@ public class Task1 {
 
             String[] arr = in.split(":");
             String text = arr[0];
+
             int position;
 
             try {
