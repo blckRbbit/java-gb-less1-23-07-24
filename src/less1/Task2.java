@@ -9,7 +9,7 @@ public class Task2 {
 
     public static void main(String[] args) {
 
-        System.out.println("Enter your name: ");
+        System.out.println("Имя: ");
 //        String name = new Scanner(System.in).next();
         Scanner sc = new Scanner(System.in);
         String name = sc.nextLine();
