@@ -1,6 +1,7 @@
 package less5;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.IntStream;
@@ -59,5 +60,9 @@ public class Task1 {
         System.out.println(toArabic("IV"));
     }
 
+    private void foo(String key, Integer value) {
+        Map<String, List<Integer>> map = new HashMap<>();
 
+        //если ключа нет if(key нет) -> map put(key, new ArrayList()) -> map.get(key) получится list -> list.add(value)
+    }
 }
